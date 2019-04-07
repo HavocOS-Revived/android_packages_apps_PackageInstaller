@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Version checks -->
-    <string name="from_version">Sürümünden</string>
-    <string name="to_version">şu</string>
-    <string name="new_package_version">sürüme</string>
+    <string name="from_version">מגרסא</string>
+    <string name="to_version">אל</string>
+    <string name="new_package_version">גירסה</string>
 </resources>

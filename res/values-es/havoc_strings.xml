@@ -19,5 +19,5 @@
     <!-- Version checks -->
     <string name="from_version">De la versión</string>
     <string name="to_version">a</string>
-    <string name="new_package_version"></string>
+    <string name="new_package_version">Versión</string>
 </resources>

@@ -19,5 +19,5 @@
     <!-- Version checks -->
     <string name="from_version">З версії</string>
     <string name="to_version">до</string>
-    <string name="new_package_version">Версії</string>
+    <string name="new_package_version">Версія</string>
 </resources>
